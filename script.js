@@ -1,7 +1,7 @@
 async function getSolarPotential(address) {
     try {
         const encodedAddress = encodeURIComponent(address);
-        const apiKey = "AIzaSyDSeZcvI8UoDLegIS-oG1rpSCczkzH6kPE";
+        const apiKey = "API KEY";
 
 
         const geocodeUrl = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodedAddress}&key=${apiKey}`;
