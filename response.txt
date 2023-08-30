@@ -1,4 +1,5 @@
 {
+"hello":"lightyear",
   "name": "buildings/ChIJh0CMPQW7j4ARLrRiVvmg6Vs",
   "center": {
     "latitude": 37.4449739,
